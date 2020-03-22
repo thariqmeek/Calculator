@@ -1,13 +1,4 @@
 # Simple Calculator
 
-Install math expressions from https://pub.dev/packages/math_expressions#-installing-tab-
-
-under pubspec.yaml- import the dependencies
-
-dependencies:
-  math_expressions: ^2.0.0
-  
-  impor the package:
-  
-import 'package:math_expressions/math_expressions.dart';
-
+-> Download the file and open it in any IDE or studio.
+-> Connect mobile device and type flutter run to execute the code 
