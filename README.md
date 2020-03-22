@@ -1,4 +1,4 @@
-# calculato
+# Simple Calculator
 
 Install math expressions from https://pub.dev/packages/math_expressions#-installing-tab-
 
